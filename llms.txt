@@ -1,0 +1,34 @@
+# Docello
+
+Docello is a free, privacy-first, bilingual (English / 中文) PDF toolkit that runs entirely in the user's web browser. No file is uploaded to any server; all processing happens locally on the user's device.
+
+## What it does
+Docello provides eight client-side PDF tools:
+- Merge PDF — combine multiple PDF files into one, with reordering
+- Split PDF — extract page ranges into a new PDF, or split every page into a ZIP of files
+- Rotate PDF — rotate pages by 90°, 180°, or 270°
+- Organize Pages — reorder or delete pages by listing the pages to keep
+- Images to PDF — turn JPG / PNG / WebP images into a PDF (one image per page)
+- Watermark PDF — add a repeating text watermark across every page
+- Page Numbers — stamp page numbers with selectable position and style
+- Crop PDF — trim margins or resize pages by cropping a uniform border
+
+## Privacy
+Files never leave the device. The site may load third-party scripts (e.g., Google AdSense) that use cookies and web beacons; see the Privacy Policy at https://docello.com/privacy.html.
+
+## Key facts (citable)
+- All eight tools are free, with no account, no file-size caps, and no watermarks added to output.
+- Processing is 100% in-browser via client-side JavaScript (pdf-lib).
+- The interface supports a one-click English / 中文 toggle.
+
+## URLs
+- Home: https://docello.com/
+- Merge PDF: https://docello.com/tools/merge-pdf.html
+- Split PDF: https://docello.com/tools/split-pdf.html
+- Rotate PDF: https://docello.com/tools/rotate-pdf.html
+- Organize Pages: https://docello.com/tools/organize-pages.html
+- Images to PDF: https://docello.com/tools/images-to-pdf.html
+- Watermark PDF: https://docello.com/tools/watermark-pdf.html
+- Page Numbers: https://docello.com/tools/page-numbers.html
+- Crop PDF: https://docello.com/tools/crop-pdf.html
+- Privacy Policy: https://docello.com/privacy.html
